@@ -14,8 +14,8 @@
 - 🏢 I'm a senior software front-end developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html5, Css3, Bootstrap, JavaScript and ReactJS or anything related to web development.
-- ⚡ Fun Fact: I love the gym and go there every day. I need to train there every day
-- 👨‍💻 Check out my portfolio at # to see some of the projects I've worked on.
+- ⚡ Fun Fact: I love the gym and go there every day. I need to train there every day.
+- 👨‍💻 Check out my portfolio at https://fouad-emad.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :

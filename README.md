@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/fouad-el-bakly-2ba15a251](https://www.linkedin.com/in/fouad-emad-2ba15a251/)" target="_blank"><img src="https://img.shields.io/badge/-Fouad%20Emad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://www.linkedin.com/in/fouad-emad-2ba15a251/)" target="_blank"><img src="https://img.shields.io/badge/-Fouad%20Emad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100021419861098" target="_blank"><img src="https://img.shields.io/badge/-Fouad%20DEmad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 

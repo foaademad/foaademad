@@ -10,9 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MEAN%20Stack%20Developer;Building%20scalable%20full-stack%20web%20apps;Always%20eager%20to%20learn%20new%20technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 I'm a MEAN Stack developer specializing in full-stack web development.
+- 🏢 I'm a MERN Stack developer specializing in full-stack web development.
 - 👨‍💻 As a CS enthusiast, I'm always diving into new tools and frameworks to build scalable, modern applications.
-- 💬 Ask me about my experience with MongoDB, Express.js, Angular, Node.js, or anything related to full-stack development.
+- 💬 Ask me about my experience with MongoDB, Express.js, React, Node.js, or anything related to full-stack development.
 - ⚡ Fun Fact: I love the gym and go there every day. I need to train there every day.
 - 👨‍💻 Explore my portfolio at https://profile-one-navy.vercel.app/ to see my profile.
 
